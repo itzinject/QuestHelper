@@ -48,7 +48,7 @@ cd Vencord
 ```sh
 cd src
 mkdir userplugins
-git clone https://github.com/itzinject/QuestHelper
+git clone https://github.com/1nject-s-Vencord-Plugins/QuestHelper
 cd ../
 ```
 
