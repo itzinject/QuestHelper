@@ -20,13 +20,10 @@ A Vencord plugin that automatically accepts and completes Discord quests.
 
 - **Multiple quest completion** - Only one quest can be completed at a time.
 
-This is intentional. Discord's system monitors the timing between different activities, so if actions are completed unrealistically fast, it can flag your account and potentially ban you for self-botting.
-
-This does not say that they track the time *during* your quests. This is saying that it tracks the time *between* your quests.
-
-There's also evidence that for accounts under 18, Discord tracks time spent on quests more strictly. After completing around three quests, a cooldown of 24-48 hours can be applied before you're allowed to continue.
-
-Don't go into issues and file this you fucking retards.
+> This is intentional. Discord's system monitors the timing between different activities, so if actions are completed unrealistically fast, it can flag your account and potentially ban you for self-botting.
+> This does not say that they track the time *during* your quests. This is saying that it tracks the time *between* your quests.
+> There's also evidence that for accounts under 18, Discord tracks time spent on quests more strictly. After completing around three quests, a cooldown of 24-48 hours can be applied before you're allowed to continue.
+> Don't go into issues and file this you fucking retards.
 
 ## Requirements
 
