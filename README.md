@@ -16,6 +16,7 @@ A Vencord plugin that automatically accepts and completes Discord quests.
 - **Session Management** - Reinitializes on connection/account changes
 
 ## Things not implemented
+- **Nitro Control Quest support** - The quest completer will not work for the *Nitro Control Quest* or its activity, `Nitro Control`.
 
 - **Multiple quest completion** - Only one quest can be completed at a time.
 
